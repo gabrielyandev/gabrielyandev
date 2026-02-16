@@ -5,7 +5,7 @@
 ### 🚀 Sobre Mim
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação. Atualmente cursando **Análise e Desenvolvimento de Sistemas** e atuando como **Front-End Developer**.
 
-* 📍 Baseado em Salvador, Bahia.
+* 📍 Salvador, Bahia.
 * 💻 Atualmente focado em projetos com **Laravel** e interfaces modernas.
 * 🎸 Nas horas vagas, tocando guitarra e ouvindo um bom rock.
 
