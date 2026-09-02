@@ -43,7 +43,7 @@ Desenvolvedor Full-Stack apaixonado por tecnologia, educação e por criar aplic
 
 ### ⚡ Projetos em Destaque
 
-* **Portal Ourobrás** — Ecossistema interno corporativo desenvolvido com arquitetura robusta em Laravel, englobando portais de suporte, módulos de inovação colaborativa (Central de Ideias) e portais de gestão de RH.
+* **Portal Ourobras** — Ecossistema interno corporativo desenvolvido com arquitetura robusta em Laravel, englobando portais de suporte, módulos de inovação colaborativa (Central de Ideias) e portais de gestão de RH.
 * **TaskHub** — Aplicação full-stack de gerenciamento de projetos em formato Kanban, combinando um back-end estruturado em Laravel com uma interface fluida em JavaScript puro e design focado em produtividade.
 
 ---
