@@ -84,8 +84,8 @@ Desenvolvedor Full-Stack focado na criação de ecossistemas robustos, seguros e
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrielyandev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Gabriel's GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielyandev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+    <img src="https://github-stats-extended.vercel.app/api?username=gabrielyandev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Gabriel's GitHub Stats" width="48%" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielyandev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
   </p>
   <p>
     <img src="https://streak-stats.demolab.com/?user=gabrielyandev&theme=radical&hide_border=true" alt="GitHub Streak" width="98%" />
