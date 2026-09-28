@@ -1,50 +1,82 @@
-
 <div align="center">
 
 # Gabriel Yan
-### **Full-Stack Software Developer**
 
-> *"Transformando linhas de código em soluções escaláveis e experiências modernas."*
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Developer;Especialista+em+Laravel+%26+PHP;Arquitetura+de+Software+%26+C%C3%B3digo+Limpo;Guitarist+%26+Rock+Enthusiast+%F0%9F%8E%B8" alt="Typing SVG" />
+</a>
 
-<div align="left">
+<p align="center">
+  <em>"Transformando linhas de código em soluções escaláveis e experiências modernas."</em>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gabrielyandev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://gabrielyandev.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:yanjob.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+</div>
 
 ---
 
 ### 💻 Sobre Mim
-Desenvolvedor Full-Stack apaixonado por tecnologia, educação e por criar aplicações que impactam o dia a dia das pessoas. Atualmente atuo no desenvolvimento de ecossistemas robustos no back-end com **Laravel** e interfaces dinâmicas e limpas no front-end. 
 
-* 📍 Salvador, Bahia, Brasil.
-* 🎸 Nas horas vagas, explorando riffs na guitarra, curtindo um bom rock e produzindo som.
-* 🚀 Movido a desafios de arquitetura de software, automação e código limpo.
+Desenvolvedor Full-Stack focado na criação de ecossistemas robustos, seguros e escaláveis. Atualmente atuo com desenvolvimento back-end orientado a boas práticas com **Laravel** e interfaces dinâmicas, limpas e de alta performance no front-end.
+
+* 📍 **Localização:** Salvador, Bahia, Brasil.
+* 🚀 **Foco:** Arquitetura de software, automação, microsserviços/APIs RESTful e código limpo.
+* 🎸 **Além do código:** Nas horas vagas, explorando riffs na guitarra, curtindo um bom rock e produzindo som.
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
 
-**Linguagens & Core**
-* ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-* ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+<div align="left">
 
-**Frameworks & Back-End**
-* ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-* ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-* ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%)
-* ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vue.js&logoColor=%234FC08D)
+**Linguagens & Front-End**
+<p>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vue.js&logoColor=%234FC08D" alt="Vue.js" />
+</p>
+
+**Back-End & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+</p>
 
 **Bancos de Dados & DevOps**
-* ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-* ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-* ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-* ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+</div>
 
 ---
 
 ### ⚡ Projetos em Destaque
 
-* **Portal Ourobras** — Ecossistema interno corporativo desenvolvido com arquitetura robusta em Laravel, englobando portais de suporte, módulos de inovação colaborativa (Central de Ideias) e portais de gestão de RH.
-* **TaskHub** — Aplicação full-stack de gerenciamento de projetos em formato Kanban, combinando um back-end estruturado em Laravel com uma interface fluida em JavaScript puro e design focado em produtividade.
+* **🏢 Portal Ourobras** `🔒 Corporativo`
+  * Ecossistema interno corporativo desenvolvido com arquitetura robusta em Laravel, englobando portais de suporte, módulos de inovação colaborativa (Central de Ideias) e portais de gestão de RH.
+  * **Stack:** `Laravel` `MySQL` `Docker` `Nginx` `JavaScript`
+
+* **📋 TaskHub**
+  * Aplicação full-stack de gerenciamento ágil de projetos em formato Kanban, combinando um back-end estruturado em Laravel com interface fluida em JavaScript puro e design focado em produtividade.
+  * **Stack:** `Laravel` `REST API` `JavaScript Moderno` `Clean UI`
 
 ---
 
@@ -56,23 +88,12 @@ Desenvolvedor Full-Stack apaixonado por tecnologia, educação e por criar aplic
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielyandev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielyandev&theme=radical&hide_border=true" alt="GitHub Streak" width="98%" />
+    <img src="https://streak-stats.demolab.com/?user=gabrielyandev&theme=radical&hide_border=true" alt="GitHub Streak" width="98%" />
   </p>
 </div>
 
 ---
 
-### 📫 Vamos nos Conectar?
-
-<div align="left">
-  <a href="https://linkedin.com/in/gabrielyandev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://gabrielyandev.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
+<div align="center">
+  <em>"Keep it rock, keep it clean." 🎸🖤</em>
 </div>
-
----
-
-> *"Keep it rock, keep it clean."* 🎸🖤
